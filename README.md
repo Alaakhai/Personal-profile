@@ -85,7 +85,7 @@ Once you have the project running locally, you can customize the content and des
 ## To view the site :
 [click here](https://alaakhai.github.io/Personal-profile/)
 ---
-## Contact
+## Contact:
 
 If you have any questions or would like to get in touch, feel free to reach out to me via:
 - **GitHub**: [my GitHub Profile](https://github.com/Alaakhai)
