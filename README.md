@@ -79,8 +79,8 @@ This project is fully responsive and adapts well to various screen sizes, includ
 
 </div>
 
-## لمشاهدة الموقع :
-[انقر هنا للمشاهدة](https://alaakhai.github.io/Personal-profile/)
+##To view the site :
+[click here](https://alaakhai.github.io/Personal-profile/)
 ## Contact
 
 If you have any questions or would like to get in touch, feel free to reach out to me via:
