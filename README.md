@@ -73,11 +73,6 @@ This project is fully responsive and adapts well to various screen sizes, includ
 | **Microsoft Edge** | 98%         |
 | **Safari**         | 92%         |
 
-![Browser Performance 1](https://github.com/user-attachments/assets/2ad9c1f0-cd8a-4349-af13-8be8535a9b9c)
-![Browser Performance 2](https://github.com/user-attachments/assets/886127a8-92d4-4b6c-8339-339e0ad23a87)
-![Browser Performance 3](https://github.com/user-attachments/assets/b1794b70-79a8-41a0-a300-b45fef44f316)
-![Browser Performance 4](https://github.com/user-attachments/assets/8c4f8528-c778-4a01-8348-f65af7a44abd)
-
 ---
 
 <img src="https://github.com/user-attachments/assets/c9d2526b-058f-4b64-9b40-1a28676db33d">
@@ -86,3 +81,9 @@ This project is fully responsive and adapts well to various screen sizes, includ
 
 ## لمشاهدة الموقع :
 [انقر هنا للمشاهدة](https://alaakhai.github.io/Personal-profile/)
+## Contact
+
+If you have any questions or would like to get in touch, feel free to reach out to me via:
+- **GitHub**: [my GitHub Profile](https://github.com/Alaakhai)
+
+Thank you for visiting my personal website!
