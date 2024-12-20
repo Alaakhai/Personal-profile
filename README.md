@@ -82,8 +82,9 @@ Once you have the project running locally, you can customize the content and des
 - **Customize Styles**: Edit the CSS files to change the look and feel of the website.
 - **Enhance Functionality**: Add or modify JavaScript code for interactivity.
 ---
-##To view the site :
+## To view the site :
 [click here](https://alaakhai.github.io/Personal-profile/)
+---
 ## Contact
 
 If you have any questions or would like to get in touch, feel free to reach out to me via:
