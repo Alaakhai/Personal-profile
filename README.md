@@ -74,11 +74,14 @@ This project is fully responsive and adapts well to various screen sizes, includ
 | **Safari**         | 92%         |
 
 ---
+## Usage :
 
-<img src="https://github.com/user-attachments/assets/c9d2526b-058f-4b64-9b40-1a28676db33d">
+Once you have the project running locally, you can customize the content and design to fit your preferences:
 
-</div>
-
+- **Modify Content**: Update the HTML files with your personal information and projects.
+- **Customize Styles**: Edit the CSS files to change the look and feel of the website.
+- **Enhance Functionality**: Add or modify JavaScript code for interactivity.
+---
 ##To view the site :
 [click here](https://alaakhai.github.io/Personal-profile/)
 ## Contact
